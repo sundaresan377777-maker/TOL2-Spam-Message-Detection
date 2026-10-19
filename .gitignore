@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Machine learning artifacts and generated databases
+# Keep required trained model files if your application needs them.
+backend/*.db
+
+# Node.js
+node_modules/
+dist/
+
+# Environment and editor files
+.DS_Store
+.vscode/

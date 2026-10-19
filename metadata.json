@@ -1,0 +1,6 @@
+{
+  "name": "Spam Message Detection System",
+  "description": "Production-quality Spam Message Detection System powered by Multinomial Naive Bayes, TF-IDF vectorization, FastAPI, and an interactive React dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
